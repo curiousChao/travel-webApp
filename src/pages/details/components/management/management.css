@@ -1,0 +1,9 @@
+.management-content{
+    height: 300px;
+}
+.management-content .management-content-img{
+    margin:30px 40px;
+}
+.management-content .management-content-img img{
+    width: 100%;
+}

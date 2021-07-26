@@ -1,0 +1,11 @@
+<div class="message-content">
+    <p class="descript" id="message-descript-para">{{items}}</p>
+    <div class="message-service">
+        <span class="zjsj">赠接送机</span>
+        <span class="zddyxm">赠当地游项目</span>
+    </div>
+    <div class="message-data">
+        <span class="view-number">浏览 <i id="viewDate">0</i></span>
+        <span class="sell-number">已售 <i id="sellDate">138</i>份</span>
+    </div>
+</div>

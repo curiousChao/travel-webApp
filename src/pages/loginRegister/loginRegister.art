@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>loginRegister</title>
+</head>
+<body>
+    <div class="loginRegister-page">
+        <div class="login-page-content">
+            <div class="login-img">
+                <img src="./loginRegister.jpg" alt="">
+            </div>
+            <div class="login-message">
+                <form action="" id="loginRegister-form">
+                    <input type="text" name="loginRegister_number" placeholder="请输入手机号码">
+                    <input type="password" name="loginRegister_password" placeholder="请输入密码">
+                </form>
+            </div>
+            <div class="btn-box">
+                <a id="loginRegister_btn" class="login-btn" href="###">立即注册</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<div class="details-header">
+    <div class="header-icons">
+        <span id="back-btn" class="iconfont icon-back"></span>
+        <div class="ringt-icons">
+            <span id="xinxin" class="iconfont icon-collect select-hart"></span>
+            <span class="iconfont icon-eye"></span>
+        </div>
+    </div>
+    <div id="details-img">
+        <img src="{{items}}" alt="">
+    </div>
+</div>

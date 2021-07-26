@@ -1,0 +1,40 @@
+.message-content{
+    height: 100%;
+    padding: 20px;
+}
+.message-content .descript{
+    color: #333333 ;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.message-content .message-service{
+    padding: 10px;
+}
+.message-content .message-service .zjsj,.message-content .message-service .zddyxm{
+    padding: 5px 10px;
+    margin: 10px 10px;
+    border: 1px solid #5278A0;
+    border-radius: 1px;
+    font-family: 'PingFangSCRegular';
+    font-size: 14px;
+    color: #5278A0;
+    letter-spacing: 0;
+    line-height: 16px;
+}
+.message-content .message-service .zjsj{
+    margin-left: -10px;
+}
+.message-content .message-data{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(20, 20, 20, 0.15);
+    padding-bottom: 10px;
+}
+.message-content .message-data span{
+    font-family: PingFangSCRegular;
+    font-size: 15px;
+    color: #999999;
+    letter-spacing: 0;
+    text-align: justify;
+}

@@ -1,0 +1,48 @@
+.details-header{
+    width: 100%;
+    height:100%;
+    /* background: url(./1.png) no-repeat; */
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+.header-icons{
+    width: 100%;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+}
+.header-icons>span{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+#back-btn:active{
+    color: #777171;
+}
+.header-icons .ringt-icons{
+    width: 60px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+.header-icons .ringt-icons span{
+    font-size: 20px;
+}
+.select-hart{
+    color: red;
+    font-weight: 1000;
+}
+#details-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+#details-img img{
+    width: 100%;
+}

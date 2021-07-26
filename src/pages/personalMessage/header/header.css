@@ -1,0 +1,13 @@
+
+.header-back{
+    width: 100%;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+}
+#header-back-btn:active{
+    color: #2e2c2c31;
+}

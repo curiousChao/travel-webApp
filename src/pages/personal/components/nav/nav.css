@@ -1,0 +1,13 @@
+.service-list .list-item{
+    padding:10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.service-list .list-item .item-link{
+    color: #262626;
+    font-family: 'PingFangSCRegular', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.service-list .list-item span{
+    font-size: 20px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>details</title>
+</head>
+<body>
+    <div id="details-page" class="details-layout">
+        <div class="details-page-header">
+            {{include './components/header/header.art'}}
+        </div>
+        <div class="details-page-message">
+            {{include './components/message/message.art'}}
+        </div>
+        <div class="details-page-introduction">
+            {{include './components/introduction/introduction.art'}}
+        </div>
+        <div class="details-page-management">
+            {{include './components/management/management.art'}}
+        </div>
+        <div class="details-page-refund">
+            {{include './components/refund/refund.art'}}
+        </div>
+        <div class="details-page-bottom">
+            {{include './components/bottom/bottom.art'}}
+        </div>
+    </div>
+    
+</body>
+</html>

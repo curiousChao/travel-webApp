@@ -1,0 +1,38 @@
+.bottom-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.bottom-left-icons{
+    display: flex;
+    align-items: flex-start;
+}
+.bottom-left-icons .zixun{
+    margin-right: 20px;
+}
+.bottom-left-icons .zixun,.bottom-left-icons .shouchang{
+    border: 1px solid #BF2A2F;
+    border-radius: 3px;
+    font-family: PingFangSCRegular;
+    font-size: 15px;
+    color: #BF2A2F;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 14px;
+    padding: 10px;
+}
+.bottom-content .yuding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #BF2A2F;
+    border: 1px solid #BF2A2F;
+    border-radius: 3px;
+    font-family: PingFangSCRegular;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 15px;
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+</head>
+<body>
+    <div class="login-page">
+        <div class="login-page-content">
+            <div class="login-img">
+                <img src="./login.jpg" alt="">
+            </div>
+            <div class="login-message">
+                <form action="" id="login-form">
+                    <input type="number" name="login_number" placeholder="请输入手机号码">
+                    <input type="password" name="login_password" placeholder="请输入密码">
+                </form>
+            </div>
+            <div class="btn-box">
+                <a id="login_btn" class="login-btn" href="###">登陆</a>
+                <div class="login-more-btn">
+                    <a href="./loginRegister.html">立即注册</a>
+                    <span>|</span>
+                    <a href="###" id="forget_password">忘记密码</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

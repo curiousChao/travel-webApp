@@ -1,0 +1,12 @@
+<div class="header-content">
+    <div class="header-background-img">
+        <img src="./Cover.png" alt="">
+    </div>
+    <div class="personal-id">
+        <div class="personal-name">王豆豆</div>
+        <div class="personal-number">18911023266</div>
+    </div>
+    <div class="personal-img">
+        <img src="./User_base.png" alt="">
+    </div>
+</div>
